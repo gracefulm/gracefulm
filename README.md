@@ -1,6 +1,8 @@
 ### Hi 👋, I'm gracefulm
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gracefulm&hide=html)
-![gracefulm's github stats](https://github-readme-stats.vercel.app/api?username=gracefulm&show_icons=true&count_private=true&line_height=40)
+<p align="left">
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracefulm" />
+  <img alt="gracefulm's github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=gracefulm&show_icons=true&count_private=true" />
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=gracefulm&theme=dark&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=gracefulm&theme=flat)](https://github.com/ryo-ma/github-profile-trophy)
